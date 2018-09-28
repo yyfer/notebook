@@ -1,0 +1,19 @@
+{
+	"author": "",
+	"links":{
+		 "sidebar": {
+	            "QQ官网": "http://www.qq.com"
+	      }
+    },
+    "plugins": [
+        "splitter",
+        "-sharing",
+        "folding-menu"
+    ],
+    "pluginsConfig": {
+        "folding-menu": {
+            "animationDuration": 500, 
+            "sticky": true
+        }
+    }
+}
